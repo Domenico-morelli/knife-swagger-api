@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: it.its.nttdata.demo.test.FirstJunitTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 14.618 s - in it.its.nttdata.demo.test.FirstJunitTest

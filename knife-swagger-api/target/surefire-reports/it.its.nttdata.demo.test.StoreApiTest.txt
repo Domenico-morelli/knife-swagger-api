@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: it.its.nttdata.demo.test.StoreApiTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 4.92 s - in it.its.nttdata.demo.test.StoreApiTest
